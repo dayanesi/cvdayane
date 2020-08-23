@@ -72,10 +72,6 @@ Field Service N II.
 Analista de TIC.
   * Responsável em reportar todo o controle e gerenciamento do departamento de TIC para o gerente de TI; administração das despesas de tecnologia e comunicação; serviços de terceiros; rotinas administrativas de TI; gerenciar os ativos; controle fiscal dos ativos; monitoramento dos gastos e consumos corporativos; controlar o financeiro do departamento; compras de equipamentos TIC para matriz e filiais do grupo; análise de demanda; apoio aos líderes de todas as unidades; atendimento especializado para os colaboradores; programas de treinamento; apoio nas rotinas e projetos; análise e melhoria de processos; controle dos contratos; suporte técnico dentro da empresa para os usuários; atualização, inserção e migração de dados dentro do sistema.
 
-## Projetos
-* [Site Pessoal]
-* [Engecall](https://)
-
 ## Redes Sociais
 *  [Linkedin](https://www.linkedin.com/in/dayanemelo/)
 
