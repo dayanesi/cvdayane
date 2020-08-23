@@ -14,32 +14,27 @@ Possuo um excelente nível de relacionamento, observação interpessoal, perfil 
 
 ## Formação
 UNOPAR Universidade Norte do Paraná, MBA em Gestão de Projetos (2016-2017)
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#técnico-em-informática)
-
 UNIPAC Universidade Presidente Antônio Carlos, Sistema de Informação (2010-2013)
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
 
 ## Formação Complementar 
-* SFC - Scrum Fundamentals Certified ID: 610267 – pela ScrumStudy em janeiro de 2018
-* DEPC - DevOps Essentials Professional Certificate ID:44062723 – pela CertiProf em agosto 2020
+* SFC - Scrum Fundamentals Certified ID: 610267 – pela ScrumStudy em janeiro de 2018 ( [Certificado](certificados/SCRUMstudy - Certificates.pdf) )
+* DEPC - DevOps Essentials Professional Certificate ID:44062723 – pela CertiProf em agosto 2020 ( [Certificado](certificados/CertiProf - DevOps 2020.pdf) )
 * SPOPC - Scrum Product Owner Professional Certified, em andamento.
-
-"* Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))"
 
 ## Cursos | Conhecimentos
 ### Recentes
-▪ Agile Project Management: modelo de gestão na organização realizado pela EAD Mackenzie
-▪ Cobit 5 Foundation realizado pela EXIN PMG Academy em junho 2020
-▪ BCM Business Continuity Management realizado pela EXIN PMG Academy em maio 2020
-▪ LEAN IT - LITA realizado pela EXIN PMG Academy em maio 2020
-▪ Maratona de UX realizado pela UX Unicórnio em maio 2020
-▪ Introdução ao Product Backlog realizado pela AgileNow em maio 2020
-▪ Liderando Mudanças realizado pela LinkedIn Learning em maio 2020
-▪ OKR realizado pela TI Exames em abril 2020
-▪ Sistema Kanban realizado pela Prime Cursos em abril 2020
-▪ ITIL 4 Overview - ITSM Best Practices realizado pela EXIN PMG Academy em março 2020
-▪ Gestão de mudança Organizacionais realizado pela ADECCO em março 2020
-▪ ISO/IEC 27001 Foundation – Essentials realizado pela EXIN – PMG Academy em março 2020
+Agile Project Management: modelo de gestão na organização realizado pela EAD Mackenzie
+Cobit 5 Foundation realizado pela EXIN PMG Academy em junho 2020
+BCM Business Continuity Management realizado pela EXIN PMG Academy em maio 2020
+LEAN IT - LITA realizado pela EXIN PMG Academy em maio 2020
+Maratona de UX realizado pela UX Unicórnio em maio 2020
+Introdução ao Product Backlog realizado pela AgileNow em maio 2020
+Liderando Mudanças realizado pela LinkedIn Learning em maio 2020
+OKR realizado pela TI Exames em abril 2020
+Sistema Kanban realizado pela Prime Cursos em abril 2020
+ITIL 4 Overview - ITSM Best Practices realizado pela EXIN PMG Academy em março 2020
+Gestão de mudança Organizacionais realizado pela ADECCO em março 2020
+ISO/IEC 27001 Foundation – Essentials realizado pela EXIN – PMG Academy em março 2020
 
 ### Anteriores
 ▪ Gestão de Processos by Pipefy realizado pela UDEMY em maio 2019
