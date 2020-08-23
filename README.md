@@ -23,18 +23,18 @@ UNIPAC Universidade Presidente Antônio Carlos, Sistema de Informação (2010-20
 
 ## Cursos | Conhecimentos
 ### Recentes
-Agile Project Management: modelo de gestão na organização realizado pela EAD Mackenzie
-Cobit 5 Foundation realizado pela EXIN PMG Academy em junho 2020
-BCM Business Continuity Management realizado pela EXIN PMG Academy em maio 2020
-LEAN IT - LITA realizado pela EXIN PMG Academy em maio 2020
-Maratona de UX realizado pela UX Unicórnio em maio 2020
-Introdução ao Product Backlog realizado pela AgileNow em maio 2020
-Liderando Mudanças realizado pela LinkedIn Learning em maio 2020
-OKR realizado pela TI Exames em abril 2020
-Sistema Kanban realizado pela Prime Cursos em abril 2020
-ITIL 4 Overview - ITSM Best Practices realizado pela EXIN PMG Academy em março 2020
-Gestão de mudança Organizacionais realizado pela ADECCO em março 2020
-ISO/IEC 27001 Foundation – Essentials realizado pela EXIN – PMG Academy em março 2020
+* Agile Project Management: modelo de gestão na organização realizado pela EAD Mackenzie
+* Cobit 5 Foundation realizado pela EXIN PMG Academy em junho 2020
+* BCM Business Continuity Management realizado pela EXIN PMG Academy em maio 2020
+* LEAN IT - LITA realizado pela EXIN PMG Academy em maio 2020
+* Maratona de UX realizado pela UX Unicórnio em maio 2020
+* Introdução ao Product Backlog realizado pela AgileNow em maio 2020
+* Liderando Mudanças realizado pela LinkedIn Learning em maio 2020
+* OKR realizado pela TI Exames em abril 2020
+* Sistema Kanban realizado pela Prime Cursos em abril 2020
+* ITIL 4 Overview - ITSM Best Practices realizado pela EXIN PMG Academy em março 2020
+* Gestão de mudança Organizacionais realizado pela ADECCO em março 2020
+* ISO/IEC 27001 Foundation – Essentials realizado pela EXIN – PMG Academy em março 2020
 
 ### Anteriores
 ▪ Gestão de Processos by Pipefy realizado pela UDEMY em maio 2019
