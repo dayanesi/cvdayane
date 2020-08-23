@@ -1,9 +1,7 @@
 # Dayane de Melo Rodovalho
 Analista de Negócios TI
 
-https://www.linkedin.com/in/dayanemelo/detail/photo/
-
-<img src="http://www.gravatar.com/avatar/a0ff40b949139bdf83174f89f04407a3.png" />
+<img src="https://www.linkedin.com/in/dayanemelo/detail/photo/" />
 <img id="photo" src="images/bruno.png" class="rounded-circle">
 
 :house:    Uberlândia/MG <br>
