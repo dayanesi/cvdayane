@@ -2,12 +2,10 @@
 Analista de Negócios TI
 
 <img src="https://www.linkedin.com/in/dayanemelo/detail/photo/" />
-<img id="photo" src="images/bruno.png" class="rounded-circle">
 
 :house:    Uberlândia/MG <br>
 :iphone:   (34) 98822- 2627 <br>
 :envelope:  dayane.si@hotmail.com
-:link: https://www.linkedin.com/in/dayanemelo/
 
 Meu nome é Dayane, sou graduada em Sistema de Informações, com pós-graduação em MBA de Gestão de Projetos e certificações Scrum.
 Atuo na área de TI com destaque em análise, planejamento, qualidade, processos, dados, produtos, serviços e clientes, tendo como diferencial de mercado o amplo conhecimento de negócios: por avaliar, definir, propor e aplicar as melhores soluções e tecnologias para demandas de desenvolvimento, relacionadas ao negócio e projetos corporativos; auxiliar na arquitetura do plano estratégico e projetar soluções tecnológicas; acompanhar o processo de desenvolvimento, auxiliando na construção de soluções, documentação, priorização de demandas junto às equipes de negócio, desenvolvimento e fornecedores; realizar o planejamento e gerenciamento entre as áreas de negócios e TI, ajudando no entendimento das necessidades da área cliente, além de suportar e acompanhar demandas internas e junto aos fornecedores, garantindo que todos produzam em prol do objetivo estabelecido;
