@@ -17,8 +17,8 @@ UNOPAR Universidade Norte do Paraná, MBA em Gestão de Projetos (2016-2017)
 UNIPAC Universidade Presidente Antônio Carlos, Sistema de Informação (2010-2013)
 
 ## Formação Complementar 
-* SFC - Scrum Fundamentals Certified ID: 610267 – pela ScrumStudy em janeiro de 2018 ( [Certificado](certificados/SCRUMstudy - Certificates.pdf) )
-* DEPC - DevOps Essentials Professional Certificate ID:44062723 – pela CertiProf em agosto 2020 ( [Certificado](certificados/CertiProf - DevOps 2020.pdf) )
+* SFC - Scrum Fundamentals Certified ID: 610267 – pela ScrumStudy em janeiro de 2018 ( [Certificado](certificados/devops-2020.pdf) )
+* DEPC - DevOps Essentials Professional Certificate ID:44062723 – pela CertiProf em agosto 2020 ( [Certificado](certificados/sfc-2018.pdf) )
 * SPOPC - Scrum Product Owner Professional Certified, em andamento.
 
 ## Cursos | Conhecimentos
