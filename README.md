@@ -1,7 +1,7 @@
 # Dayane de Melo Rodovalho
 Analista de Negócios TI
 
-<img src="https://www.linkedin.com/in/dayanemelo/detail/photo/" />
+<img src="https://www.linkedin.com/in/dayanemelo/detail/photo/"/>
 
 :house:    Uberlândia/MG <br>
 :iphone:   (34) 98822- 2627 <br>
@@ -37,18 +37,17 @@ UNIPAC Universidade Presidente Antônio Carlos, Sistema de Informação (2010-20
 * ISO/IEC 27001 Foundation – Essentials realizado pela EXIN – PMG Academy em março 2020
 
 ### Anteriores
-▪ Gestão de Processos by Pipefy realizado pela UDEMY em maio 2019
-▪ UX & Design: Experiência do Usuário nos negócios realizado pela UDEMY em abril 2019
-▪ Microsoft Power BI realizado pela Data Science Academy em agosto 2018
-▪ UX User Experience e UI User Interface Design realizado pela TIM Tec em maio 2018
-▪ Curso para Certificação ISO/IEC 20000 Foundation realizado pela UDEMY em fevereiro 2018
-▪ Formação Total em Scrum realizado pela UDEMY em maio 2017
-▪ Python Fundamento Análise de Dados realizado pela Data Science Academy em janeiro 2018
-▪ Big Data Fundamentos realizado pela Data Science Academy em agosto 2017
-▪ Programador de dispositivos Móveis realizado pela UAITEC em maio 2017
-▪ Fundamentos de ITIL realizado pelo portal Techno TIVIT em dezembro 2016
-▪ Gestão Estratégica ITIL realizado pelo Fundação Bradesco em janeiro 2016
-
+* Gestão de Processos by Pipefy realizado pela UDEMY em maio 2019
+* UX & Design: Experiência do Usuário nos negócios realizado pela UDEMY em abril 2019
+* Microsoft Power BI realizado pela Data Science Academy em agosto 2018
+* UX User Experience e UI User Interface Design realizado pela TIM Tec em maio 2018
+* Curso para Certificação ISO/IEC 20000 Foundation realizado pela UDEMY em fevereiro 2018
+* Formação Total em Scrum realizado pela UDEMY em maio 2017
+* Python Fundamento Análise de Dados realizado pela Data Science Academy em janeiro 2018
+* Big Data Fundamentos realizado pela Data Science Academy em agosto 2017
+* Programador de dispositivos Móveis realizado pela UAITEC em maio 2017
+* Fundamentos de ITIL realizado pelo portal Techno TIVIT em dezembro 2016
+* Gestão Estratégica ITIL realizado pelo Fundação Bradesco em janeiro 2016
 
 ## Experência Profissional
 * (06/2019 -  Atual) <br>
