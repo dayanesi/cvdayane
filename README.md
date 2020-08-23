@@ -1,118 +1,94 @@
-# David Allysson
-Desenvolvedor Web - Junior / Front-end e Back-end.
+# Dayane de Melo Rodovalho
+Analista de Negócios TI
 
-:house:    Natal/RN <br>
-:iphone:   (84) 98776 - 5436 <br>
-:envelope:  davidmoreirainformatica@gmail.com
+https://www.linkedin.com/in/dayanemelo/detail/photo/
 
-Meu nome é David Allysson, sou Desenvolvedor Web apaixonado por PHP e Material Design, com grande interesse em Javascript e Bootstrap. Músico nas horas vagas, adoro acampar, ler e estudo psicologia como hobbie.
+<img src="http://www.gravatar.com/avatar/a0ff40b949139bdf83174f89f04407a3.png" />
+<img id="photo" src="images/bruno.png" class="rounded-circle">
+
+:house:    Uberlândia/MG <br>
+:iphone:   (34) 98822- 2627 <br>
+:envelope:  dayane.si@hotmail.com
+:link: https://www.linkedin.com/in/dayanemelo/
+
+Meu nome é Dayane, sou graduada em Sistema de Informações, com pós-graduação em MBA de Gestão de Projetos e certificações Scrum.
+Atuo na área de TI com destaque em análise, planejamento, qualidade, processos, dados, produtos, serviços e clientes, tendo como diferencial de mercado o amplo conhecimento de negócios: por avaliar, definir, propor e aplicar as melhores soluções e tecnologias para demandas de desenvolvimento, relacionadas ao negócio e projetos corporativos; auxiliar na arquitetura do plano estratégico e projetar soluções tecnológicas; acompanhar o processo de desenvolvimento, auxiliando na construção de soluções, documentação, priorização de demandas junto às equipes de negócio, desenvolvimento e fornecedores; realizar o planejamento e gerenciamento entre as áreas de negócios e TI, ajudando no entendimento das necessidades da área cliente, além de suportar e acompanhar demandas internas e junto aos fornecedores, garantindo que todos produzam em prol do objetivo estabelecido;
+
+Possuo um excelente nível de relacionamento, observação interpessoal, perfil organizacional com ênfase em análise de situações, tratativas e preventivas, constante busca de boas práticas, grande adaptabilidade em desafios, análise técnica, apoio especializado, suporte remoto e local, gestão de atendimento em várias cidades, migrações, levantamento e análise de dados e requisitos, relatórios, implementação de novos processos, demandas e tecnologias, mudanças e melhorias, cumprimento de prazo e escopo, otimização, integração e resultados do projeto. Possuo também flexibilidade, facilidade com mudanças e adaptações, habilidades interpessoais,  determinação e transparência, buscando sempre aperfeiçoar o desenvolvimento pessoal e profissional com novas formações, treinamentos, especializações, práticas de liderança, negociação, empreendedorismo e agilidade nas ações.
 
 ## Formação
-Instituto Federal de Educação, Ciência e Tecnologia do RN - Técnico em Informática <br>
-Concluído em 2016
-
+UNOPAR Universidade Norte do Paraná, MBA em Gestão de Projetos (2016-2017)
 [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#técnico-em-informática)
 
-Instituto Federal de Educação, Ciência e Tecnologia do RN - Tecnólogo em Analise e Desenvolvimento de Sistemas <br>
-3 º Semestre - Finalização em 2020
-
+UNIPAC Universidade Presidente Antônio Carlos, Sistema de Informação (2010-2013)
 [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
 
+## Formação Complementar 
+* SFC - Scrum Fundamentals Certified ID: 610267 – pela ScrumStudy em janeiro de 2018
+* DEPC - DevOps Essentials Professional Certificate ID:44062723 – pela CertiProf em agosto 2020
+* SPOPC - Scrum Product Owner Professional Certified, em andamento.
+
+"* Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))"
+
+## Cursos | Conhecimentos
+### Recentes
+▪ Agile Project Management: modelo de gestão na organização realizado pela EAD Mackenzie
+▪ Cobit 5 Foundation realizado pela EXIN PMG Academy em junho 2020
+▪ BCM Business Continuity Management realizado pela EXIN PMG Academy em maio 2020
+▪ LEAN IT - LITA realizado pela EXIN PMG Academy em maio 2020
+▪ Maratona de UX realizado pela UX Unicórnio em maio 2020
+▪ Introdução ao Product Backlog realizado pela AgileNow em maio 2020
+▪ Liderando Mudanças realizado pela LinkedIn Learning em maio 2020
+▪ OKR realizado pela TI Exames em abril 2020
+▪ Sistema Kanban realizado pela Prime Cursos em abril 2020
+▪ ITIL 4 Overview - ITSM Best Practices realizado pela EXIN PMG Academy em março 2020
+▪ Gestão de mudança Organizacionais realizado pela ADECCO em março 2020
+▪ ISO/IEC 27001 Foundation – Essentials realizado pela EXIN – PMG Academy em março 2020
+
+### Anteriores
+▪ Gestão de Processos by Pipefy realizado pela UDEMY em maio 2019
+▪ UX & Design: Experiência do Usuário nos negócios realizado pela UDEMY em abril 2019
+▪ Microsoft Power BI realizado pela Data Science Academy em agosto 2018
+▪ UX User Experience e UI User Interface Design realizado pela TIM Tec em maio 2018
+▪ Curso para Certificação ISO/IEC 20000 Foundation realizado pela UDEMY em fevereiro 2018
+▪ Formação Total em Scrum realizado pela UDEMY em maio 2017
+▪ Python Fundamento Análise de Dados realizado pela Data Science Academy em janeiro 2018
+▪ Big Data Fundamentos realizado pela Data Science Academy em agosto 2017
+▪ Programador de dispositivos Móveis realizado pela UAITEC em maio 2017
+▪ Fundamentos de ITIL realizado pelo portal Techno TIVIT em dezembro 2016
+▪ Gestão Estratégica ITIL realizado pelo Fundação Bradesco em janeiro 2016
+
+
 ## Experência Profissional
-* (2017 -  Atual) <br>
-**IFRN - Campus Natal Central** -
-Estagiário na Diretoria de Pesquisa e Extensão do Campus (DIPEQ).
-  * Colaborar no desenvolvimento do projeto que monitora a evasão escolar do Campus.
-  * Corrigir bugs no projeto e desenvolver novas funcionalidades.
+* (06/2019 -  Atual) <br>
+**Supera Tecnologia – Uberlândia – MG** -
+Analista de Negócios TI.
+  * Analista responsável por definir as diretrizes do projeto, realizar análise de risco, calcular as peculiaridades do negócio, analisar as necessidades, interesses, anseios e expectativas dos clientes, orientar de forma transparente e objetiva os profissionais das áreas de tecnologia e de negócios, assegurar a qualidade da entrega do produto e fornecer melhorias, novos produtos e serviços para vários segmentos da empresa, com valor agregado a partir da perspectiva realizada. Atuar juntamente com fábricas, fornecedores e stakeholders e diversas áreas da empresa como Inteligência de Mercado, Engenharia, Marketing, Arquitetura, Desenvolvedores, Segurança, Fiscal, Comunicação, Analytics, Qualidade, Sustentação, dentre outras. Gerenciar as ferramentas de
+controle, fazendo absolutamente tudo o que for necessário para entregar e desenvolver o melhor produto e conseguir bons resultados impulsionando as ferramentas de métodos ágeis.
 
+* (10/2017 -  06/2019) <br>
+**UP Brasil - Uberlândia - MG** -
+Analista de Sistemas Pleno.
+  * Responsável por atender o comercial, call center, operação, instituições bancárias, fornecedor e terceiro; garantir a disponibilidade no ambiente transacional do correspondente bancário e TEF; monitorar e acompanhar os servidores, links, performance e desempenho das aplicações; controlar as ações corretiva e preventiva; propor melhoria contínua aos responsáveis; testar novos produtos e aplicações; analisar e solucionar problemas com comunicação, instalação, configuração, automação e transação dos meio de captura;
+ 
+* (02/2015 -  02/2017) <br>
+**TIVIT Terceirização de Processos Serviços e Tecnologia S/A – Uberlândia - MG** -
+Field Service N II.
+  * Responsável por realizar o atendimento aos clientes de Uberlândia e região, com suporte técnico em serviços de tecnologia da informação; garantindo o correto e preciso atendimento aos usuários/clientes internos e externos, através da análise e entendimento das necessidades, demandas, definição, execução e teste da solução mais adequada, visando obter os padrões e indicadores de eficiência e agilidade estabelecidos; responder pela organização; responsável pela gestão dos documentos, peças e equipamentos do estoque avançado, controlando a logística e movimentação; análise de requisitos, levantamento de dados técnicos e operacionais, cumprir com as normas e padrões estabelecido pela empresa e cliente; verificar, controlar e analisar as estratégias de ITIL no sistema conforme urgência de cada área, visando sempre garantir o correto e preciso atendimento.
 
-* (2015 -  2016) <br>
-**Prefeitura de São Gonçalo do Amarante** -
-Estagiário na Subsecretaria de Tecnologia da Informação e Ciência (SETIC).
-  * Colaborar no desenvolvimento dos projetos da Prefeitura.
-  * Corrigir pequenos bugs no Front-end e no Back-end.
-
-
-* (2013 -  2015) <br>
-**IFRN - Campus São Gonçalo do Amarante** -
-Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada e Orientada a Objetos).
-  * Ser responsável pelo laboratório utilizado pelos alunos.
-  * Solucionar dúvidas referentes as disciplinas.
-
-## Conhecimentos
-
-### Gerais
-* Lógica de Programação.
-* Inglês suficiente para ler e entender.
-
-### Sistemas Operacionais
-* Linux
-* Windows
-
-### Front-end
-* HTML.
-  * Markdown.
-* CSS (Design Responsivo).
-  * SASS
-  * Arquitetura BEM
-
-### UI Kits
-* Material Kit.
-* Materialize.
-* Bootstrap.
-
-### Frameworks Front-end
-* Vue.js
-
-### Linguagens de Programação
-* Java.
-* PHP.
-* Ruby.
-* Python.
-
-### Frameworks Back-end
-* Laravel
-
-### Banco de Dados
-* MySQL.
-* PostgreSQL.
-
-### Sistemas de controle de versão
-* Git.
+* (06/2013 -  02/2015) <br>
+**Grupo Maqnelson – Uberlândia - MG** -
+Analista de TIC.
+  * Responsável em reportar todo o controle e gerenciamento do departamento de TIC para o gerente de TI; administração das despesas de tecnologia e comunicação; serviços de terceiros; rotinas administrativas de TI; gerenciar os ativos; controle fiscal dos ativos; monitoramento dos gastos e consumos corporativos; controlar o financeiro do departamento; compras de equipamentos TIC para matriz e filiais do grupo; análise de demanda; apoio aos líderes de todas as unidades; atendimento especializado para os colaboradores; programas de treinamento; apoio nas rotinas e projetos; análise e melhoria de processos; controle dos contratos; suporte técnico dentro da empresa para os usuários; atualização, inserção e migração de dados dentro do sistema.
 
 ## Projetos
-* [Site Pessoal](https://davidallysson.github.io/)
-* [Engecall](https://davidallysson.github.io/Engecall)
-
-## Cursos Completos
-* Curso Git e Github para iniciantes (Udemy / [Certificado](#))
-* Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
-
-## Eventos como Participante
-* Campus Party Natal ( [Certificado](certificados/cpnatal.pdf) )
-* Code Girl - 5ª Edição ( [Certificado](certificados/code-girl-5.pdf) )
-* VII WTADS ( [Certificado](certificados/vii-workshop-tads.pdf) )
-* I EXPOTEC - IFRN/CM ( [Certificado](certificados/expotecifrncm-2017.pdf) )
-* 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities.pdf) )
-* I Workshop do Nucleo Avançado de Inovação Tecnológica (NAVI) ( [Certificado](certificados/workshop-navi.pdf) )
-* Code Girl - 2ª Edição ( [Certificado](certificados/code-girl-2.pdf) )
-* IX CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação (2014) ( [Certificado](certificados/connepi-2014.pdf) / [Mostra Tecnológica](certificados/mostra-tecnologica.pdf) )
-* OBR - Olimpíada Brasileira de Robótica (2014) ( [Certificado](certificados/obr-2014.pdf) / [Honra Ao Mérito](certificados/obr-honra-ao-merito.pdf) )
-
-## Eventos como Organizador
-* 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities-organization.pdf) )
+* [Site Pessoal]
+* [Engecall](https://)
 
 ## Redes Sociais
-*  [Facebook](https://www.facebook.com/david.allysson.9)
-*  [Twitter](https://twitter.com/DaviDAllysson)
-*  [Linkedin](https://www.linkedin.com/in/david-allysson-527791118/)
+*  [Linkedin](https://www.linkedin.com/in/dayanemelo/)
 
 ## Informações Adicionais
-* Premiado com a medalha de mérito da Olimpíada Brasileira de Robótica (OBR) – Modalidade Teórica (2014).
+* Inglês básico.
 
 <br><br>
-
-## Me ajude!
-Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
-
-Inspirado no [richmanzoli](https://github.com/richmanzoli/curriculo). Confere o dele lá também! :wink:
